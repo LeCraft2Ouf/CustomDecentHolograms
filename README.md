@@ -18,20 +18,20 @@ Download the JAR file from [latest release](https://github.com/alexanderdidio/Cu
 - One of the supported plugins installed
 
 ## How does it work?
-Simply use the command `/hg create <player>` to create a new hologram for a player, or let them create holograms themselves with `/hg create`! Once the hologram is created, it will be located at the location configured in the `config.yml` until the player uses `/hg move <hologram>` to move the hologram to their claim/plot/island. Players can use the commands below to customize their holograms.
+Simply use the command `/holo create <player>` to create a new hologram for a player, or let them create holograms themselves with `/holo create`! Once the hologram is created, it will be located at the location configured in the `config.yml` until the player uses `/holo move <hologram>` to move the hologram to their claim/plot/island. Players can use the commands below to customize their holograms.
 
 **Commands and Permissions**
 
 For players to create holograms themselves, you must assign them the permission node `cdh.amount.<amount>` which will let them create up a certain amount of holograms. Read the PlaceholderAPI section below to learn how to automate this!
-- /hg create - `cdh.create`
-- /hg reload - `cdh.reload`
-- /hg hide - `cdh.hide`
-- /hg move [hologram] - `cdh.move`
-- /hg edit [hologram] [line] [text] - `cdh.edit`
-- /hg add [hologram] [text] - `cdh.add`
-- /hg remove [hologram] [line] - `cdh.remove`
-- /hg list - `cdh.list`
-- /hg formats - `cdh.formats`
+- /holo create - `cdh.create`
+- /holo reload - `cdh.reload`
+- /holo hide - `cdh.hide`
+- /holo move [hologram] - `cdh.move`
+- /holo edit [hologram] [line] [text] - `cdh.edit`
+- /holo add [hologram] [text] - `cdh.add`
+- /holo remove [hologram] [line] - `cdh.remove`
+- /holo list - `cdh.list`
+- /holo formats - `cdh.formats`
 
 **PlaceholderAPI Support**
 

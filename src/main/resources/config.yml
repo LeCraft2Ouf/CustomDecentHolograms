@@ -28,11 +28,11 @@ hologram:
   max-characters: 40
   spawn-lines:
     - "&u&l{0}'s Hologram"
-    - "&fEdit lines &7» &a/hg edit <hologram> <line>"
-    - "&fAdd lines &7» &a/hg add <hologram> <text>"
-    - "&fRemove lines &7» &a/hg remove <hologram> <line>"
-    - "&fList all of your owned holograms &7» &a/hg list"
-    - "&fUse colors and floating items &7» &a/hg formats"
+    - "&fEdit lines &7» &a/holo edit <hologram> <line>"
+    - "&fAdd lines &7» &a/holo add <hologram> <text>"
+    - "&fRemove lines &7» &a/holo remove <hologram> <line>"
+    - "&fList all of your owned holograms &7» &a/holo list"
+    - "&fUse colors and floating items &7» &a/holo formats"
   spawn-location:
     world: world
     x: 0

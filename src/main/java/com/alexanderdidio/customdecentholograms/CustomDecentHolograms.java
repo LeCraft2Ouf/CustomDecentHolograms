@@ -27,7 +27,7 @@ public class CustomDecentHolograms extends JavaPlugin {
         loadConfigs();
         loadAPIs();
         Command command = new Command(this);
-        PluginCommand pluginCommand = getCommand("hg");
+        PluginCommand pluginCommand = getCommand("holo");
         pluginCommand.setExecutor(command);
         new Placeholders(this);
         new Metrics(this, 18931);

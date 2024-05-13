@@ -5,7 +5,7 @@ import com.bgsoftware.superiorskyblock.api.SuperiorSkyblockAPI;
 import com.bgsoftware.superiorskyblock.api.wrappers.SuperiorPlayer;
 import com.griefdefender.api.Core;
 import com.griefdefender.api.GriefDefender;
-import com.iridium.iridiumskyblock.PermissionType;
+import com.iridium.iridiumteams.PermissionType;
 import com.iridium.iridiumskyblock.api.IridiumSkyblockAPI;
 import com.iridium.iridiumskyblock.database.Island;
 import com.palmergames.bukkit.towny.object.TownyPermission;

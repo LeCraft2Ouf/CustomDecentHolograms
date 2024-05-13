@@ -112,7 +112,7 @@
         <dependency>
             <groupId>com.iridium</groupId>
             <artifactId>IridiumSkyblock</artifactId>
-            <version>3.2.8</version>
+            <version>LATEST</version>
         </dependency>
         <dependency>
             <groupId>com.bgsoftware</groupId>
